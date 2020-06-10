@@ -1,0 +1,6 @@
+<html>
+<title>Azure Web App Demo v1.1</title>
+<body>
+Hello there
+</body>
+</html>
